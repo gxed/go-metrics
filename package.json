@@ -1,0 +1,16 @@
+{
+  "author": "armon",
+  "bugs": {
+    "url": "https://github.com/armon/go-metrics"
+  },
+  "gx": {
+    "dvcsimport": "github.com/armon/go-metrics"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-metrics",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "2017.1.3"
+}
+
