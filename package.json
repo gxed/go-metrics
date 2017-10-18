@@ -6,11 +6,19 @@
   "gx": {
     "dvcsimport": "github.com/armon/go-metrics"
   },
+  "gxDependencies": [
+    {
+      "author": "hashicorp",
+      "hash": "QmNmgjBrvHx4KKyd7ehMb2vkkfup9jFRiiQQAbKrTKepZa",
+      "name": "go-immutable-radix",
+      "version": "2017.10.18"
+    }
+  ],
   "gxVersion": "0.10.0",
   "language": "go",
   "license": "MIT",
   "name": "go-metrics",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "2017.7.27"
+  "version": "2017.10.18"
 }
 
